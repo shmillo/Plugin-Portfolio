@@ -1,0 +1,9 @@
+Hello and thank you for taking the time to look over my portfolio!
+
+My name is Shawn Milloway, and I am a recording engineer, researcher, and composer residing in Cincinnati, Ohio. 
+
+My research is currently focused on analog modeling and circuit simulation. I am working on using symbolic libraries such as sympy, numpy, and matlab’s symbolic toolbox for automatic code generation of real time circuit models.  
+
+As a recording engineer, I have released recordings on the Centaur and Ablaze record labels, some of which are my own compositions. I have also recorded grammy award winning artists, and members of the Cincinnati Symphony.
+
+The portfolio consists of VSTs made using the JUCE API.  Each project combines a mixture of techniques from the port hamiltonian, wave digital, and MNA approaches.  I have cited some of the relevant research that is applied in the simulations.
