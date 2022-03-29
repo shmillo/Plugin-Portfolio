@@ -1,0 +1,7 @@
+
+This plugin was not implemented with WDFs, but inspiration was taken from reading these papers:
+
+
+Germain, F. G., & Werner, K. J. (2017). Optimizing Differentiated Discretization for Audio Circuits Beyond Driving Point Transfer Functions. In Proceedings of the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA) (pp. 1-5). https://doi.org/10.1109/WASPAA.2017.8170060
+
+Werner, K. J., Dunkel, W. R., & Germain, F. G. (2016). A Computational model of the Hammond Organ Vibrato/Chorus Using Wave Digital Filters. In P. Rajmic, F. Rund, & J. Schimmel (Eds.), Proceedings of the 19th International Conference on Digital Audio Effects (pp. 271–278). [54] DAFx. http://dafx16.vutbr.cz/proceedings.htm
